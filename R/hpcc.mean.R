@@ -49,4 +49,3 @@ hpcc.mean <-
 		hpcc.submit(code)
 		return(out.dataframe)
 	}
-
